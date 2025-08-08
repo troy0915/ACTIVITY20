@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\Activity20\bin\Debug\Activity20.exe.config
+C:\Users\HP\source\repos\Activity20\bin\Debug\Activity20.exe
+C:\Users\HP\source\repos\Activity20\bin\Debug\Activity20.pdb
+C:\Users\HP\source\repos\Activity20\obj\Debug\Activity20.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Activity20\obj\Debug\Activity20.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Activity20\obj\Debug\Activity20.exe
+C:\Users\HP\source\repos\Activity20\obj\Debug\Activity20.pdb
